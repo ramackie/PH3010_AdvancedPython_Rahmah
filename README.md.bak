@@ -1,9 +1,6 @@
 # Template repository for PH3010 Advanced Python
 
 This is a template repository demonstrating how to package a python project. The directory is structured as follows:
-
-just changing this hi
-
 ```
 template_project_PH3010_advanced_python/
 ├── .gitignore
