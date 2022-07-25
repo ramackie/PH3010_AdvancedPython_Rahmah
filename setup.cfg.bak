@@ -1,14 +1,14 @@
 [metadata]
 name = example-package-GREGASHTON
 version = 0.0.1
-author = Rahmah Mackie
-author_email = rahmah.mackie@gmail.com
+author = Greg Ashton
+author_email = gregory.ashton@rhul.ac.uk
 description = A small example package
 long_description = file: README.md
 long_description_content_type = text/markdown
-url = https://github.com/ramackie/PH3010_AdvancedPython_Rahmah
+url = https://github.com/GregoryAshton/template_project_PH3010_advanced_python
 project_urls =
-    Bug Tracker = https://github.com/ramackie/PH3010_AdvancedPython_Rahmah/issues
+    Bug Tracker = https://github.com/GregoryAshton/template_project_PH3010_advanced_python/issues
 classifiers =
     Programming Language :: Python :: 3
     License :: OSI Approved :: MIT License
