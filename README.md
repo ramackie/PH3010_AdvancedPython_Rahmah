@@ -2,7 +2,7 @@
 
 This is a template repository demonstrating how to package a python project. The directory is structured as follows:
 
-just changing this hi
+just changing this hi  <<< this was from my local terminal, these words being written right now are the changes I'm making with github flow
 
 ```
 template_project_PH3010_advanced_python/
